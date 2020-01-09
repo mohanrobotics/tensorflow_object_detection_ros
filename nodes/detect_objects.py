@@ -61,7 +61,7 @@ class Detector:
 
         # Loading the image
 
-        # Alternative snippet for loading the image
+        # ##Alternative snippet for loading the image
         # try:
         #   cv_image = self.bridge.imgmsg_to_cv2(image_data, "bgr8")
         # except CvBridgeError as e:
