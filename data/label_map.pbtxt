@@ -1,0 +1,70 @@
+item {
+  id: 1
+  name: 'ship'
+}
+
+item {
+  id: 2
+  name: 'Marinemammal'
+}
+
+item {
+  id: 3
+  name: 'package'
+}
+
+item {
+  id: 4
+  name: 'other_debris'
+}
+
+item {
+  id: 5
+  name: 'bottles'
+}
+
+item {
+  id: 6
+  name: 'Boat'
+}
+
+item {
+  id: 7
+  name: 'swimmer'
+}
+
+item {
+  id: 8
+  name: 'pier'
+}
+
+item {
+  id: 9
+  name: 'wooden'
+}
+
+item {
+  id: 10
+  name: 'other_structure'
+}
+
+item {
+  id: 11
+  name: 'dock'
+}
+
+item {
+  id: 12
+  name: 'debris_patch'
+}
+
+item {
+  id: 13
+  name: 'one_person_vehicle'
+}
+
+item {
+  id: 14
+  name: 'bridge'
+}
+
