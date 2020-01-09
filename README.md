@@ -12,7 +12,7 @@ It can be installed using
 `pip install opencv-python`
 
 ## Models
-Copy the saved_model from  and place it under `data/`
+Place'frozen_inference_graph.pb' and 'label_map.pbtxt' under `data/`
 
 ## Steps
 
